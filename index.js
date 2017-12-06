@@ -9,7 +9,8 @@ function theBeatlesPlay(musicians,instruments){
 function iLoveTheBeatles(number){
   var arrayTwo=[];
   do{
-    arrayTwo.push("I love the Beatles!")
+    arrayTwo.push("I love the Beatles!");
+    number++;
   }
 }
 
