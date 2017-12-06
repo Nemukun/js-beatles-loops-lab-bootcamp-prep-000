@@ -14,15 +14,14 @@ const facts = [
 ];
 
 function johnLennonFacts(){
-
-  var newFacts=[];
-  var i=0;
-  while(i<facts.length){
-    newFacts.push(facts[i]+"!!!");
+  var newFacts = [];
+  var i = 0;
+  while (i < facts.length) {
+    newFacts.push(facts[i] +"!!!");
     i++;
-  }
-  return newFacts;
-}
+ }
+ return newFacts;
+
  
 function iLoveTheBeatles(number){
   var beatlesArray=[];
