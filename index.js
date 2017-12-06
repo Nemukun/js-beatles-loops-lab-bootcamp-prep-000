@@ -14,12 +14,13 @@ function theBeatlesPlay(musicians,instruments){
 ];
 
 function johnLennonFacts(){
+  var newFacts=[];
   var i=0;
   while(i<facts.length){
-    facts.push(facts[i]+"!!!");
+    newFacts.push(facts[i]+"!!!");
     i++;
   }
-  return facts;
+  return newFacts;
 }
  
 function iLoveTheBeatles(number){
