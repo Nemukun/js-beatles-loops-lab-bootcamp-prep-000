@@ -10,7 +10,8 @@ function iLoveTheBeatles(number){
   var arrayTwo=[];
   do{
     arrayTwo.push("I love the Beatles!");
-    number++;
+    number++;}
+    while
   }
 }
 
