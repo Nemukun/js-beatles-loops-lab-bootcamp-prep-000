@@ -7,12 +7,12 @@ function theBeatlesPlay(musicians,instruments){
  }
 
 function iLoveTheBeatles(number){
-  var arrayTwo=[];
+  var beatlesArray=[];
   do{
-    arrayTwo.push("I love the Beatles!");
+    beatlesArray.push("I love the Beatles!");
     number++;}
     while (number<15);
-    return number;
+    return beatlesArray;
   }
 
 
